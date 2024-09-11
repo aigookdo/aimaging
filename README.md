@@ -93,8 +93,8 @@
     <div class="container" id="contact">
         <h2 class="section-title">Contact Us</h2>
         <p>To learn more about our services or to discuss a potential project, please contact us at:</p>
-        <p>Email: <a href="mailto:info@a-imaging.com">info@a-imaging.com</a></p>
-        <p>Phone: +1 (123) 456-7890</p>
+        <p>Email: <a href="mailto:aimaging.inc@gmail.com">aimaging.inc@gmail.com</a></p>
+        <p>Phone: +1 438-764-5293</p>
     </div>
 
     <footer>
